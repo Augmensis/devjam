@@ -39,3 +39,4 @@ gem 'font-awesome-sass', '4.2.0'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'devise', '3.4.1'
